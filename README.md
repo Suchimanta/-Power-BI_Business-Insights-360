@@ -34,6 +34,8 @@ AtliQ Hardware, an innovative consumer electronics company with a global footpri
 8. Implementing insightful stakeholder feedback.
 
  𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
+
+ 
   𝑭𝒊𝒏𝒂𝒏𝒄𝒆 𝑽𝒊𝒆𝒘: Unveil profit and loss statements, Net Sales Performance over time, and impactful Top & Bottom product analysis.
 
   
